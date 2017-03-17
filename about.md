@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I’m Sapphire. I’m a psychology and linguistics graduate learning how to make some of my ideas materialise. Put simply, I want to design cool things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saphmb@gmail.com](mailto:saphmb@gmail.com)
