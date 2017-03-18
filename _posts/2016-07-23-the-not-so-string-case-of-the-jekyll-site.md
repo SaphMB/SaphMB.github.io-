@@ -3,7 +3,7 @@ layout: post
 title: The (not so) Strange Case of the Jekyll Site
 ---
 
-![alt text](https://https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg/1024px-Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg "Dr Jekyll and Mr Hyde poster")
+![Dr Jekyll and Mr Hyde poster](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg/1024px-Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg "Dr Jekyll and Mr Hyde poster")
 
 I’ve turned my attention to the creation of a portfolio site. Although I have something that I was toying around with as part of Free Code Camp, I thought I’d start afresh and learn something new at the same.
 
