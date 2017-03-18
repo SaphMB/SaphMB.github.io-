@@ -7,7 +7,7 @@ I’ve found myself in the rather odd situation of having a lot of time to dedic
 
 A few weeks ago I had the pleasure of attending Brighton Ruby courtesy of [Black Girl Tech](https://blackgirl.tech/). It was a blast, although many things went over my head. During the talk on MondoDB I tried my best to avoid sporting this expression:
 
-![confused totoro] (http://media.giphy.com/media/DeKJrr8vovqXC/giphy.gif "Confused Totoro")]
+![confused totoro](http://media.giphy.com/media/DeKJrr8vovqXC/giphy.gif "Confused Totoro")]
 
 For most part however, I got what was being said and had a great time. My two favourite talks were by Sara Simon and Britni Alexander. Sara’s talk, titled ‘The Function of Bias’ highlighted how biases affect the software we create. This is something that comes up every so often; [when Apple watches fail to work on dark skin and tattoos](http://www.vocativ.com/culture/health-culture/tattoos-apple-watch-dark-skin), when [Google images identify black faces as gorillas](http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tags-black-people-as-gorillas-showing-limits-of-algorithms), and in Sara’s example, [software that predicts criminality being biased against black people](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing).
 
