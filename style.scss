@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway";
+  font-family: "Raleway"; sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -48,6 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: #00264d;
   a {
     color: inherit;
   }
