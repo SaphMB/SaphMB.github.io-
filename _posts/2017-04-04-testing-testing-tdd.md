@@ -17,4 +17,4 @@ Upon arriving  home I still had the testing bug and worked through a tutorial fr
 
 Also, I was having a chic-wag with someone earlier who pointed out that there also a post about TDD up on the [Maker’s blog](https://blog.makersacademy.com/an-introduction-to-tdd-in-ruby-72f0a8536509).
 
-<p style="text-align: center;">[ [End credits](https://www.youtube.com/watch?v=fye1XtXQn9s) ]<p/>
+<p style="text-align: center;">[ [End credits](https://www.youtube.com/watch?v=fye1XtXQn9s) ]<p/> 
