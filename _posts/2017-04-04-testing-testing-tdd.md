@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing, testing, TDD
+---
 
 Last weekend I dipped my toes into the world of Test Driven Development (TDD). Knowing that this would be a big part of the course at Makers, I knew I’d have to get my head around it eventually - my only prior experience being the pre-written tests that appear in Codewars kata.
 
