@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alterconf London - all about that access
+title: Alterconf London: all about that access
 --- 
 
 Last Saturday I had the joy of spending the day at London’s very first [Alterconf](https://alterconf.com) held at King (they of Candy Crush fame). The travelling conference series “works toward a more inclusive future” by providing space for marginalised people in technology and gaming and amplifying their voices.
