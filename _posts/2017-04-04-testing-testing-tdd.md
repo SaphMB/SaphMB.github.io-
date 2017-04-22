@@ -16,5 +16,3 @@ After the demo we got stuck into doing our own testing. I utilised test/unit as 
 Upon arriving  home I still had the testing bug and worked through a tutorial from  Women Who Code. This was an introduction to Rspec that, like my earlier testing, centred on some arithmetic methods. Whereas the earlier session provided a solid grounding in the business of testing, the WWC tutorial honed in on how Rspec worked  making for a pretty well-rounded day of TDD.
 
 Also, I was having a chic-wag with someone earlier who pointed out that there also a post about TDD up on the [Maker’s blog](https://blog.makersacademy.com/an-introduction-to-tdd-in-ruby-72f0a8536509).
-
-<p style="text-align: center;">[ [End credits](https://www.youtube.com/watch?v=fye1XtXQn9s) ]<p/> 
